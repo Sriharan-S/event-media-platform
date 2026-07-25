@@ -181,7 +181,7 @@
 
       <Reveal delay={160}>
         <p class="mx-auto mt-6 max-w-xl text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-          Organising the event is enough work already. Upload the photos once and EventLens finds everyone in them,
+          Organising the event is enough work already. Connect your Google account to securely import event photos directly from Google Drive. EventLens then finds everyone in them,
           sending each guest a private gallery of just the shots they appear in.
         </p>
       </Reveal>
