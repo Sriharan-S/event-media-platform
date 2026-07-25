@@ -113,7 +113,7 @@
 </script>
 
 <svelte:head>
-  <title>EventLens — event photos, delivered to everyone in them</title>
+  <title>EventLens</title>
   <meta
     name="description"
     content="Event organisers upload the photos once. EventLens finds every guest and sends each of them a private gallery of just their own."
